@@ -6,9 +6,7 @@ var builder = WebApplication.CreateBuilder(args);
 // Add services to the container.
 builder.Services.AddRazorPages();
 builder.Services.AddDbContext<Pizza2Context>(options => 
-    // options.UseSqlServer(builder.Configuration.GetConnectionString(@"ConnectionStrings:Pizza2Connection")));
-    options.UseSqlServer("Server=localhost;Database=Pizza2;User Id=SA;Password=Iamamazing313.;TrustServerCertificate=true;"));
-
+    options.UseSqlServer(builder.Configuration.GetConnectionString("Pizza2Connection")));
     // this registers Pizza2Context with ASP.NET Core's dependency injection container.
 
 var app = builder.Build();
