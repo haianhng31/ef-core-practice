@@ -1,7 +1,7 @@
 ## File 1: Pizza 
 * Tạo các Models
 * Tạo PizzaContext - Kết nối với SQLServer bằng cách override void OnConfiguring
-* Thử thay đổi/tạo mới/truy vấn/xoá các entity trong Database từ code (trong "Program.cs")
+* Thử thay đổi/tạo mới/truy vấn/xoá các entity trong Database từ code (trong "Program.cs") - Migration 
 * Thể hiện 1-to-many hoặc many-to-many relationships bằng cách dùng IQueryable 
 
 ## File 2: Pizza2
