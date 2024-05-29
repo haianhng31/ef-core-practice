@@ -11,6 +11,7 @@
 ## File 3: PizzaWeb 
 * Tạo một trang web bằng ASP.NET Core Razor
 * Connect với database sẵn có giống File 2 "Pizza2"
+* Dùng users-secret để store Connection String 
 * Dùng package Microsoft.VisualStudio.Web.CodeGeneration.Design và tool dotnet-aspnet-codegenerator để tạo các trang Razor CRUD (delete, update, post, get)
 
   <img width="1512" alt="Screenshot 2024-05-29 at 3 50 15 PM" src="https://github.com/haianhng31/ef-core-practice/assets/126405175/6262f78b-0396-45ea-8b88-9b0587929952">
