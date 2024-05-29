@@ -9,6 +9,7 @@ namespace Pizza.Models
         public string LastName { get; set; } = null!;
         public string? Address { get; set; }
         public string? Phone { get; set; }
+        public string? Email { get; set; }
         public ICollection<Order> Orders { get; set; } = null!;
         // Navigation Property: indicates that a customer can have a 0 or more orders 
         // Create 1 - Many relationship in the db 

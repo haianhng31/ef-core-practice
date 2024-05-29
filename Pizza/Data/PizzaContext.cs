@@ -21,7 +21,7 @@ namespace Pizza.Data
              
             // optionsBuilder.UseSqlServer(@"Server=172.17.0.2;Port=1433;Database=Pizza;User Id=haianhng31;Password=Iamamazing313.;Trusted_Connection=True;");
             // optionsBuilder.UseSqlServer(@"Server=172.17.0.2;Database=Pizza;Trusted_Connection=True;");
-            optionsBuilder.UseSqlServer(@"Server=localhost;Database=Pizza;User Id=SA;Password=Iamamazing313.;");
+            optionsBuilder.UseSqlServer(@"Server=localhost;Database=Pizza;User Id=SA;Password=Iamamazing313.;TrustServerCertificate=true;");
 
         }
     }
