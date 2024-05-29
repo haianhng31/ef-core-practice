@@ -14,9 +14,9 @@
 * Dùng users-secret để store Connection String 
 * Dùng package Microsoft.VisualStudio.Web.CodeGeneration.Design và tool dotnet-aspnet-codegenerator để tạo các trang Razor CRUD (delete, update, post, get)
 
-  <img width="1512" alt="Screenshot 2024-05-29 at 3 50 15 PM" src="https://github.com/haianhng31/ef-core-practice/assets/126405175/6262f78b-0396-45ea-8b88-9b0587929952">
-<img width="1512" alt="Screenshot 2024-05-29 at 3 51 21 PM" src="https://github.com/haianhng31/ef-core-practice/assets/126405175/bf5ab9f7-086b-473b-b963-1bfe92f4b856">
-<img width="1512" alt="Screenshot 2024-05-29 at 3 51 15 PM" src="https://github.com/haianhng31/ef-core-practice/assets/126405175/414ad633-2ee2-492d-bf31-525150f169a9">
-<img width="1512" alt="Screenshot 2024-05-29 at 3 51 08 PM" src="https://github.com/haianhng31/ef-core-practice/assets/126405175/1ee57459-285b-40be-b357-904d176b7720">
-<img width="1512" alt="Screenshot 2024-05-29 at 3 50 59 PM" src="https://github.com/haianhng31/ef-core-practice/assets/126405175/e5584a1f-0e42-4acb-9c83-40be8812f542">
-<img width="1512" alt="Screenshot 2024-05-29 at 3 50 52 PM" src="https://github.com/haianhng31/ef-core-practice/assets/126405175/10555167-6eb1-4f24-841d-c6d830b911db">
+<img width="1512" alt="Screenshot 2024-05-29 at 4 09 44 PM" src="https://github.com/haianhng31/ef-core-practice/assets/126405175/b2b69dff-9eb7-41d7-bfeb-b78a703e84be">
+<img width="1512" alt="Screenshot 2024-05-29 at 4 09 41 PM" src="https://github.com/haianhng31/ef-core-practice/assets/126405175/5aa6d83a-35a1-4537-af15-8ce90aa32764">
+<img width="1512" alt="Screenshot 2024-05-29 at 4 09 39 PM" src="https://github.com/haianhng31/ef-core-practice/assets/126405175/55d575b4-ff82-4f36-b962-fbdf10ddc250">
+<img width="1512" alt="Screenshot 2024-05-29 at 4 09 35 PM" src="https://github.com/haianhng31/ef-core-practice/assets/126405175/4a048dbf-4c54-474f-aee2-b7c844a1117c">
+<img width="1512" alt="Screenshot 2024-05-29 at 4 09 32 PM" src="https://github.com/haianhng31/ef-core-practice/assets/126405175/7e59f947-84a4-4ba6-b1da-71ec0a801719">
+<img width="1512" alt="Screenshot 2024-05-29 at 4 09 27 PM" src="https://github.com/haianhng31/ef-core-practice/assets/126405175/21a71aaa-7d86-4ff1-bd8f-6bbdb2d2a088">
