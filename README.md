@@ -1,10 +1,10 @@
-## File 1: Pizza 
+## File 1: Pizza [Code First]
 * Tạo các Models
 * Tạo PizzaContext - Kết nối với SQLServer bằng cách override void OnConfiguring
-* Thử thay đổi/tạo mới/truy vấn/xoá các entity trong Database từ code (trong "Program.cs") - Migration 
+* Thử thay đổi/tạo mới/truy vấn/xoá các entity trong Database từ code (trong "Program.cs") 
 * Thể hiện 1-to-many hoặc many-to-many relationships bằng cách dùng IQueryable 
 
-## File 2: Pizza2
+## File 2: Pizza2 [Database First]
 * Tạo sẵn một database trong SQLServer và populate các data
 * Sau đó dùng lệnh 'dotnet ef dbcontext scaffold' để connect với database sẵn có => tạo các file Models và Data trong folder project Pizza2
 
